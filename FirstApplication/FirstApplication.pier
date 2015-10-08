@@ -580,7 +580,9 @@ nothing:
 LOGame >> mouseMove: anEvent
 ]]]
 
-Finally we are done!
+Delete your Lights Out game by meta-clicking to bring up its morphic halo and then click on the x in the pink handle.
+
+Finally we are done! 
 
 !!Saving and sharing Smalltalk code
 
